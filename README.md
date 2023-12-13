@@ -14,3 +14,8 @@ Need to get PCAP showing the response... Possibly sample that PS-Script in a san
 
 Maybe:
 Execute the ENV polling commands on a real PC (at home, non-attributable, or at a friend's house lol), concat with "^", and B64 encode. Download new Goot in Sandbox with the NIC emulated. Manually modify the ENV calls with the B64 values. Execute the script to let it beacon out.
+
+
+Part 2:
+
+This part is for analyzing the fake forum loader (ff#).
