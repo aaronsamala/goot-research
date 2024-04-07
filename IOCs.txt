@@ -1,3 +1,21 @@
+Using the dorking query below, we were able to find goot loader sites:
+
+site:.br inurl:- enterprise agreement
+
+https[:]//taecmodulos.com.br/enterprise-agreement-benefits-how-they-can-help-your-business/
+
+https[:]//blogdaandreia.com.br/ipa-enterprise-agreement/
+
+
+site:.it inurl:- enterprise agreement
+
+http[:]//www.alma-ingegneria.it/finance-sector-union-enterprise-agreement/
+
+https[:]//www.adaabruzzo.it/2022/07/18/application-to-vary-an-enterprise-agreement/
+
+
+
+
 "https[:]//naghsheshahr.com/xmlrpc.php",
 "https[:]//theceostory.in/xmlrpc.php",
 "https[:]//copenhagencontemporary.org/xmlrpc.php",
