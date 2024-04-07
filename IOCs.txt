@@ -1,0 +1,12 @@
+"https[:]//naghsheshahr.com/xmlrpc.php",
+"https[:]//theceostory.in/xmlrpc.php",
+"https[:]//copenhagencontemporary.org/xmlrpc.php",
+"https[:]//sparo1.se/xmlrpc.php",
+"http[:]//headofthehooch.org/xmlrpc.php",
+"https[:]//internationalliving.com/xmlrpc.php",
+"https[:]//thll.org.tw/xmlrpc.php",
+"https[:]//www.estedavivere.it/xmlrpc.php",
+"https[:]//muskun.com/xmlrpc.php",
+"https[:]//nagradnaigra.com.hr/xmlrpc.php"
+
+
